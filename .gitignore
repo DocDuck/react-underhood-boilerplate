@@ -11,4 +11,7 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+# VSCode
+.vscode
+
 npm-debug.log*
